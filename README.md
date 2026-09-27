@@ -78,9 +78,43 @@ counting and sorting algorithms in `utils.py`, and the grade/percentage
 logic in `grade_calculator.py`.
 
 ## Screenshots
+1.Main menu
+<img width="1919" height="1004" alt="Screenshot 2026-09-27 230845" src="https://github.com/user-attachments/assets/81011a9c-9684-4bd1-a8db-8892fde54e77" />
 
-*(Add screenshots of the running menu, class statistics, and ranking
-output here before submission.)*
+
+
+ 1. Add Student
+ <img width="1915" height="522" alt="Screenshot 2026-09-27 231155" src="https://github.com/user-attachments/assets/390ec526-e1f0-4ef6-9c7e-6777741a9323" />
+
+ 2. View All Students
+<img width="1902" height="630" alt="Screenshot 2026-09-27 231253" src="https://github.com/user-attachments/assets/1662ba4b-e4b6-4a06-bea0-7b45cb05acf6" />
+
+
+ 3. Update Student Marks
+<img width="1919" height="572" alt="Screenshot 2026-09-27 231512" src="https://github.com/user-attachments/assets/db279c3b-567e-42cc-99dc-44f187e1b698" />
+
+ 4. Delete Student
+<img width="1919" height="500" alt="Screenshot 2026-09-27 231538" src="https://github.com/user-attachments/assets/80e987be-7e5c-4891-8e63-96c0a0056609" />
+
+
+ 5. Search Student
+<img width="1919" height="675" alt="Screenshot 2026-09-27 231618" src="https://github.com/user-attachments/assets/710aee94-204f-4ac4-a8ff-bfbd11069a58" />
+
+ 6. View Grade Report (per student)
+<img width="1919" height="721" alt="Screenshot 2026-09-27 231637" src="https://github.com/user-attachments/assets/2114a0ca-6ba2-4605-ae98-00d8f251ea98" />
+
+
+ 7. View Class Statistics
+<img width="1919" height="719" alt="Screenshot 2026-09-27 231706" src="https://github.com/user-attachments/assets/56b918f6-c039-4c94-b887-f43afea825ec" />
+
+ 8. View Class Ranking
+<img width="1914" height="728" alt="Screenshot 2026-09-27 231720" src="https://github.com/user-attachments/assets/b0c19b85-e17e-46f6-83c1-cd875e3ddbf1" />
+
+ 9. Export Full Report to File
+<img width="1919" height="669" alt="Screenshot 2026-09-27 231741" src="https://github.com/user-attachments/assets/c208a8e8-20d4-4f81-941b-8768f0428ade" />
+
+ 10. Save & Exit
+<img width="1919" height="963" alt="Screenshot 2026-09-27 231756" src="https://github.com/user-attachments/assets/d417fdab-30a2-439c-b779-084e599b3ec2" />
 
 ## Sample Data
 
