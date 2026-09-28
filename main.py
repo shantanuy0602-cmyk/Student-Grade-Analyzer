@@ -1,16 +1,4 @@
-"""
-main.py
---------
-Entry point for the Student Grade & Performance Analyzer.
-Presents a simple, menu-driven console interface (usability requirement)
-that ties together the three functional modules:
 
-    1) Student & Data Management  -> student_manager.py
-    2) Grade Calculation          -> grade_calculator.py
-    3) Performance Analytics      -> performance_analyzer.py / report_generator.py
-
-Run with:  python main.py
-"""
 
 from student_manager import (
     add_student,
@@ -25,7 +13,7 @@ from report_generator import generate_and_save_report
 from file_handler import load_students, save_students
 
 MENU = """
-========== STUDENT GRADE & PERFORMANCE ANALYZER ==========
+STUDENT GRADE & PERFORMANCE ANALYZER 
  1. Add Student
  2. View All Students
  3. Update Student Marks
@@ -36,11 +24,11 @@ MENU = """
  8. View Class Ranking
  9. Export Full Report to File
  0. Save & Exit
-============================================================
+
 """
 
 
-def display_grade_report(students):
+def display grade report(students):
     """Prints the computed grade / percentage / status for every student."""
     report = build_grade_report(students)
     if not report:
